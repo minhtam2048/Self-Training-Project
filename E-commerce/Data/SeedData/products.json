@@ -1,0 +1,282 @@
+[
+  {
+    "Name": "Name 1",
+    "Description": "Description 1",
+    "Price": 44,
+    "StockPictureUrl": "StockPictureUrl 1",
+    "CategoryId": 1,
+    "BrandId": 2
+  },
+  {
+    "Name": "Name 2",
+    "Description": "Description 2",
+    "Price": 77,
+    "StockPictureUrl": "StockPictureUrl 2",
+    "CategoryId": 1,
+    "BrandId": 1
+  },
+  {
+    "Name": "Name 3",
+    "Description": "Description 3",
+    "Price": 38,
+    "StockPictureUrl": "StockPictureUrl 3",
+    "CategoryId": 2,
+    "BrandId": 10
+  },
+  {
+    "Name": "Name 4",
+    "Description": "Description 4",
+    "Price": 76,
+    "StockPictureUrl": "StockPictureUrl 4",
+    "CategoryId": 1,
+    "BrandId": 3
+  },
+  {
+    "Name": "Name 5",
+    "Description": "Description 5",
+    "Price": 40,
+    "StockPictureUrl": "StockPictureUrl 5",
+    "CategoryId": 3,
+    "BrandId": 10
+  },
+  {
+    "Name": "Name 6",
+    "Description": "Description 6",
+    "Price": 99,
+    "StockPictureUrl": "StockPictureUrl 6",
+    "CategoryId": 2,
+    "BrandId": 9
+  },
+  {
+    "Name": "Name 7",
+    "Description": "Description 7",
+    "Price": 74,
+    "StockPictureUrl": "StockPictureUrl 7",
+    "CategoryId": 5,
+    "BrandId": 5
+  },
+  {
+    "Name": "Name 8",
+    "Description": "Description 8",
+    "Price": 19,
+    "StockPictureUrl": "StockPictureUrl 8",
+    "CategoryId": 3,
+    "BrandId": 10
+  },
+  {
+    "Name": "Name 9",
+    "Description": "Description 9",
+    "Price": 49,
+    "StockPictureUrl": "StockPictureUrl 9",
+    "CategoryId": 2,
+    "BrandId": 5
+  },
+  {
+    "Name": "Name 10",
+    "Description": "Description 10",
+    "Price": 0,
+    "StockPictureUrl": "StockPictureUrl 10",
+    "CategoryId": 4,
+    "BrandId": 4
+  },
+  {
+    "Name": "Name 11",
+    "Description": "Description 11",
+    "Price": 79,
+    "StockPictureUrl": "StockPictureUrl 11",
+    "CategoryId": 3,
+    "BrandId": 6
+  },
+  {
+    "Name": "Name 12",
+    "Description": "Description 12",
+    "Price": 35,
+    "StockPictureUrl": "StockPictureUrl 12",
+    "CategoryId": 5,
+    "BrandId": 4
+  },
+  {
+    "Name": "Name 13",
+    "Description": "Description 13",
+    "Price": 2,
+    "StockPictureUrl": "StockPictureUrl 13",
+    "CategoryId": 1,
+    "BrandId": 10
+  },
+  {
+    "Name": "Name 14",
+    "Description": "Description 14",
+    "Price": 52,
+    "StockPictureUrl": "StockPictureUrl 14",
+    "CategoryId": 2,
+    "BrandId": 2
+  },
+  {
+    "Name": "Name 15",
+    "Description": "Description 15",
+    "Price": 88,
+    "StockPictureUrl": "StockPictureUrl 15",
+    "CategoryId": 3,
+    "BrandId": 3
+  },
+  {
+    "Name": "Name 16",
+    "Description": "Description 16",
+    "Price": 98,
+    "StockPictureUrl": "StockPictureUrl 16",
+    "CategoryId": 4,
+    "BrandId": 6
+  },
+  {
+    "Name": "Name 17",
+    "Description": "Description 17",
+    "Price": 52,
+    "StockPictureUrl": "StockPictureUrl 17",
+    "CategoryId": 1,
+    "BrandId": 1
+  },
+  {
+    "Name": "Name 18",
+    "Description": "Description 18",
+    "Price": 17,
+    "StockPictureUrl": "StockPictureUrl 18",
+    "CategoryId": 1,
+    "BrandId": 1
+  },
+  {
+    "Name": "Name 19",
+    "Description": "Description 19",
+    "Price": 14,
+    "StockPictureUrl": "StockPictureUrl 19",
+    "CategoryId": 2,
+    "BrandId": 3
+  },
+  {
+    "Name": "Name 20",
+    "Description": "Description 20",
+    "Price": 44,
+    "StockPictureUrl": "StockPictureUrl 20",
+    "CategoryId": 3,
+    "BrandId": 7
+  },
+  {
+    "Name": "Name 21",
+    "Description": "Description 21",
+    "Price": 95,
+    "StockPictureUrl": "StockPictureUrl 21",
+    "CategoryId": 4,
+    "BrandId": 10
+  },
+  {
+    "Name": "Name 22",
+    "Description": "Description 22",
+    "Price": 15,
+    "StockPictureUrl": "StockPictureUrl 22",
+    "CategoryId": 4,
+    "BrandId": 7
+  },
+  {
+    "Name": "Name 23",
+    "Description": "Description 23",
+    "Price": 93,
+    "StockPictureUrl": "StockPictureUrl 23",
+    "CategoryId": 3,
+    "BrandId": 8
+  },
+  {
+    "Name": "Name 24",
+    "Description": "Description 24",
+    "Price": 38,
+    "StockPictureUrl": "StockPictureUrl 24",
+    "CategoryId": 1,
+    "BrandId": 8
+  },
+  {
+    "Name": "Name 25",
+    "Description": "Description 25",
+    "Price": 4,
+    "StockPictureUrl": "StockPictureUrl 25",
+    "CategoryId": 5,
+    "BrandId": 7
+  },
+  {
+    "Name": "Name 26",
+    "Description": "Description 26",
+    "Price": 73,
+    "StockPictureUrl": "StockPictureUrl 26",
+    "CategoryId": 2,
+    "BrandId": 8
+  },
+  {
+    "Name": "Name 27",
+    "Description": "Description 27",
+    "Price": 75,
+    "StockPictureUrl": "StockPictureUrl 27",
+    "CategoryId": 2,
+    "BrandId": 1
+  },
+  {
+    "Name": "Name 28",
+    "Description": "Description 28",
+    "Price": 70,
+    "StockPictureUrl": "StockPictureUrl 28",
+    "CategoryId": 5,
+    "BrandId": 4
+  },
+  {
+    "Name": "Name 29",
+    "Description": "Description 29",
+    "Price": 23,
+    "StockPictureUrl": "StockPictureUrl 29",
+    "CategoryId": 2,
+    "BrandId": 7
+  },
+  {
+    "Name": "Name 30",
+    "Description": "Description 30",
+    "Price": 21,
+    "StockPictureUrl": "StockPictureUrl 30",
+    "CategoryId": 5,
+    "BrandId": 10
+  },
+  {
+    "Name": "Name 31",
+    "Description": "Description 31",
+    "Price": 86,
+    "StockPictureUrl": "StockPictureUrl 31",
+    "CategoryId": 4,
+    "BrandId": 7
+  },
+  {
+    "Name": "Name 32",
+    "Description": "Description 32",
+    "Price": 4,
+    "StockPictureUrl": "StockPictureUrl 32",
+    "CategoryId": 3,
+    "BrandId": 10
+  },
+  {
+    "Name": "Name 33",
+    "Description": "Description 33",
+    "Price": 97,
+    "StockPictureUrl": "StockPictureUrl 33",
+    "CategoryId": 2,
+    "BrandId": 9
+  },
+  {
+    "Name": "Name 34",
+    "Description": "Description 34",
+    "Price": 82,
+    "StockPictureUrl": "StockPictureUrl 34",
+    "CategoryId": 1,
+    "BrandId": 9
+  },
+  {
+    "Name": "Name 35",
+    "Description": "Description 35",
+    "Price": 39,
+    "StockPictureUrl": "StockPictureUrl 35",
+    "CategoryId": 4,
+    "BrandId": 1
+  }
+]
