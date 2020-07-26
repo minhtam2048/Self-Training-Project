@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mmiin\\source\\repos\\E-Commerce\\E-Commerce\\E-commerce.csproj": {}
+    "C:\\Users\\mmiin\\source\\repos\\E-Commerce\\E-commerce\\E-commerce.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mmiin\\source\\repos\\E-Commerce\\E-Commerce\\E-commerce.csproj": {
+    "C:\\Users\\mmiin\\source\\repos\\E-Commerce\\E-commerce\\E-commerce.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mmiin\\source\\repos\\E-Commerce\\E-Commerce\\E-commerce.csproj",
+        "projectUniqueName": "C:\\Users\\mmiin\\source\\repos\\E-Commerce\\E-commerce\\E-commerce.csproj",
         "projectName": "E-commerce",
-        "projectPath": "C:\\Users\\mmiin\\source\\repos\\E-Commerce\\E-Commerce\\E-commerce.csproj",
+        "projectPath": "C:\\Users\\mmiin\\source\\repos\\E-Commerce\\E-commerce\\E-commerce.csproj",
         "packagesPath": "C:\\Users\\mmiin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mmiin\\source\\repos\\E-Commerce\\E-Commerce\\obj\\",
+        "outputPath": "C:\\Users\\mmiin\\source\\repos\\E-Commerce\\E-commerce\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\mmiin\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -38,6 +38,10 @@
       "frameworks": {
         "netcoreapp3.1": {
           "dependencies": {
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[8.0.1, )"
+            },
             "JetBrains.Annotations": {
               "target": "Package",
               "version": "[2020.1.0, )"

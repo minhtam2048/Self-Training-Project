@@ -54,5 +54,7 @@ C:\Users\mmiin\source\repos\E-Commerce\E-Commerce\obj\Debug\netcoreapp3.1\E-Comm
 C:\Users\mmiin\source\repos\E-Commerce\E-Commerce\obj\Debug\netcoreapp3.1\E-Commerce.pdb
 C:\Users\mmiin\source\repos\E-Commerce\E-Commerce\obj\Debug\netcoreapp3.1\E-Commerce.genruntimeconfig.cache
 C:\Users\mmiin\source\repos\E-Commerce\E-Commerce\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
-C:\Users\mmiin\source\repos\E-Commerce\E-Commerce\obj\Debug\netcoreapp3.1\E-Commerce.csproj.CoreCompileInputs.cache
-C:\Users\mmiin\source\repos\E-Commerce\E-Commerce\obj\Debug\netcoreapp3.1\E-Commerce.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\mmiin\source\repos\E-commerce\E-commerce\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Users\mmiin\source\repos\E-commerce\E-commerce\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\mmiin\source\repos\E-commerce\E-commerce\obj\Debug\netcoreapp3.1\E-commerce.csproj.CoreCompileInputs.cache
+C:\Users\mmiin\source\repos\E-commerce\E-commerce\obj\Debug\netcoreapp3.1\E-commerce.MvcApplicationPartsAssemblyInfo.cache

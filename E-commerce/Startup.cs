@@ -2,7 +2,9 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using AutoMapper;
 using E_commerce.Data.Repositories;
+using E_commerce.Helpers;
 using E_Commerce.Data.Contexts;
 using E_Commerce.Data.Repositories;
 using Microsoft.AspNetCore.Builder;
@@ -31,6 +33,7 @@ namespace E_Commerce
         {
             services.AddScoped<IProductRepository, ProductRepository>();
             services.AddScoped((typeof(IGenericRepository<>)), (typeof(GenericRepository<>)));
+            services.AddAutoMapper(typeof(MappingProfiles));
             services.AddControllers();
             services.AddDbContext<StoreContext>(options => options.UseSqlServer(_configuration.GetConnectionString("DefaultConnection")));
         }
@@ -46,6 +49,8 @@ namespace E_Commerce
             app.UseHttpsRedirection();
 
             app.UseRouting();
+
+            app.UseStaticFiles();
 
             app.UseAuthorization();
 
